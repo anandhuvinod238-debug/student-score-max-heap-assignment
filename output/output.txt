@@ -1,0 +1,18 @@
+Max Heap insertion trace
+Insert 78: 78
+Insert 92: 92, 78
+Insert 65: 92, 78, 65
+Insert 88: 92, 88, 65, 78
+Insert 95: 95, 92, 65, 78, 88
+Insert 72: 95, 92, 72, 78, 88, 65
+Insert 84: 95, 92, 84, 78, 88, 65, 72
+Insert 90: 95, 92, 84, 90, 88, 65, 72, 78
+
+Highest score: 95
+Key comparisons to find maximum: 0
+Root accesses to find maximum: 1
+Insertion parent-child key comparisons: 11
+
+Scores: 78, 92, 65, 88, 95, 72, 84, 90
+Highest score: 95
+Score comparisons: 7
